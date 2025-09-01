@@ -1,7 +1,7 @@
 ## Hi there 👋
-I’m Kumedzro Sena Gifty. I’m a passionate Software Engineering student, mastering the art of building scalable, efficient solutions through hands-on projects and peer learning.
+I’m Kumedzro Sena Gifty. I’m a passionate Software Engineer, mastering the art of building scalable, efficient solutions through hands-on projects.
 
-My coursework focuses on:
+My focuses are on:
 
 Full-stack development (Python, JavaScript, C)
 
