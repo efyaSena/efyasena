@@ -1,62 +1,76 @@
-## Hi there 👋
-I’m Kumedzro Sena Gifty. I’m a passionate Software Engineer, mastering the art of building scalable, efficient solutions through hands-on projects.
+<!--
+🎨 GITHUB PROFILE README
+Professional & Eye-Catching for Job Applications
+-->
 
-My focuses are on:
+<h1 align="center">👋 Hi, I’m Efya Sena</h1>
+<h3 align="center">Front-End Developer | Software Engineer in Training | Lifelong Learner</h3>
 
-Full-stack development (Python, JavaScript, C)
+---
 
-DevOps & cloud technologies (AWS, Docker)
+## 🌟 About Me
 
-Collaborative problem-solving (remote team projects)
+<p>
+I am a learner of the <strong>ALX Front-End Developer Program</strong>, driven by curiosity and a deep desire to create impactful digital experiences.  
+This is why I started with <strong>Software Engineering</strong>:  
+➡️ To combine creativity and logic to build solutions that solve real-world problems.  
+I am passionate about <strong>front-end development, user experience, and continuous growth</strong>, and I am inspired by <strong>innovators and creators shaping the future of tech</strong>.  
+</p>
 
- 🔭 I’m currently learning front end web development
+---
 
- My Skills 🧠 & Expertise
+## 🚀 Vision & Goals
 
-Languages: Python, JavaScript, SQL
+<p>
+My aim is to <strong>become a skilled software engineer who creates intuitive and accessible web experiences for users worldwide</strong>.  
+I’d love to work on <strong>front-end applications, responsive websites, and impactful open-source projects</strong>.  
+</p>
 
-Frameworks: React, Flask, Node.js
+---
 
-Tools: Git, Docker, AWS EC2
+## 🛠️ Skills & Tools
 
-Soft Skills: Agile teamwork, technical writing, debugging.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+</p>
 
-What Drives Me
+---
 
-I’m obsessed with continuous learning—currently diving into [AI or ML, e.g., AI ethics, cloud architecture, or open-source contributions]. When I’m not coding, you’ll find me cooking, dancing or sight seeing.
+## 📂 Featured Projects
 
-Achievements
-created an app (AI Powered Climate Fishing App) with my peers for our project work.
+| Project | Description | Tech Stack | Demo/Repo |
+|---------|-------------|-----------|-----------|
+| 🌐 **Portfolio Website** | A personal portfolio showcasing my work and skills. | HTML, CSS, JS | [🔗 View Project](#) |
+| 🛒 **E-commerce App** | Front-end store with shopping cart functionality. | React, CSS | [🔗 View Project](#) |
+| 📱 **Responsive Landing Page** | A fully responsive landing page for a brand. | HTML, CSS, JS | [🔗 View Project](#) |
 
-Strengths
+---
 
-Resilience – Overcoming technical hurdles 
+## 📈 GitHub Stats
 
-Attention to Detail – Catching edge cases in testing or code reviews.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=efyaSena&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efyaSena&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-Curiosity – Passion for exploring emerging tech (e.g., AI, blockchain).
+---
 
-Time Management – Balancing multiple projects/deadlines effectively.
+## 🌍 Let’s Connect!
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/EfyaSena" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kumedzrosenagifty@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-Goals
-Action Plan
-ALX Focus: Excel in MY current track (C, Python, DevOps).
+---
 
-Side Projects: Build 1-2 projects using new skills (e.g., deploy a Flask app on AWS).
-
-Community: Join ALX Peer Groups, GitHub communities, or local hackathons.
-
- ⚡ Fun fact: i cook very well.
- 👯 I’m looking to collaborate with anyone who wants to share.
-  😄 Pronouns: she/her
-
-
-## Get in Touch 📬
-
-📫 How to reach me
-www.linkedin.com/in/efya-sena-5a871a328
-email: kumezrosenagifty@gmail.com
-
-
-
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
