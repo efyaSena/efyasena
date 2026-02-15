@@ -11,10 +11,10 @@ Professional & Eye-Catching for Job Applications
 ## 🌟 About Me
 
 <p>
-I am a learner of the <strong>ALX Front-End Developer Program</strong>, driven by curiosity and a deep desire to create impactful digital experiences.  
-This is why I started with <strong>Software Engineering</strong>:  
-➡️ To combine creativity and logic to build solutions that solve real-world problems.  
-I am passionate about <strong>front-end development, user experience, and continuous growth</strong>, and I am inspired by <strong>innovators and creators shaping the future of tech</strong>.  
+I am a Front-End Developer trained through the <strong>ALX Front-End Developer Program</strong>, driven by curiosity and a strong desire to build impactful digital experiences.  
+My journey into <strong>Software Engineering</strong> began with a clear goal:  
+➡️ to combine creativity and logic in building solutions that solve real-world problems.  
+I am passionate about <strong>front-end development, user experience, and continuous growth</strong>, and I draw inspiration from <strong>innovators and creators shaping the future of technology</strong>.
 </p>
 
 ---
