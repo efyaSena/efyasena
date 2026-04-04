@@ -45,9 +45,9 @@ I’d love to work on <strong>front-end applications, responsive websites, and i
 
 | Project | Description | Tech Stack | Demo/Repo |
 |---------|-------------|-----------|-----------|
-| 🌐 **Portfolio Website** | A personal portfolio showcasing my work and skills. | HTML, CSS, JS | [🔗 View Project](#) |
-| 🛒 **E-commerce App** | Front-end store with shopping cart functionality. | React, CSS | [🔗 View Project](#) |
-| 📱 **Responsive Landing Page** | A fully responsive landing page for a brand. | HTML, CSS, JS | [🔗 View Project](#) |
+| 🌐 **Portfolio Website** | A personal portfolio showcasing my work and skills. | HTML, CSS, JS | [🔗  efyasena.com](#) |
+| 🛒 **E-commerce App** | Front-end store with shopping cart functionality. | React, CSS | [🔗 https://efyasena.github.io/bdauraCollection/](#) |
+| 📱 **BD Rhythm — Music Discovery App** | A genre-based music discovery platform designed for smooth navigation and intuitive user experience.. | HTML, CSS, JS | [🔗 https://bd-rythm.vercel.app](#) |
 
 ---
 
